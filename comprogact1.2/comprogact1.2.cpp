@@ -23,7 +23,7 @@ void circle(double radius, double &area)
 	area = PI * radius * radius;
 }
 
-int main()
+int main() 
 {
 	int userChoice, sideSquare, lengWidth, baseWidth, radius; 
 	double area{};
